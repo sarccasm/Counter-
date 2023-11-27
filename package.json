@@ -1,0 +1,22 @@
+{
+    "name": "counter",
+    "version": "1.0.0",
+    "main": "main.js",
+    "scripts": {
+      "start": "node main.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "electron": "^27.1.0",
+      "prompt-sync": "^4.2.0",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0"
+    },
+    "keywords": [],
+    "description": "",
+    "devDependencies": {
+      "babel-cli": "^6.26.0"
+    }
+  }
