@@ -74,7 +74,7 @@ function name_hero_dota2(heroName) {
         "Juggernaut": ["Bane", "Faceless Void", "Pugna"],
         "Kunkka": ["Phantom Lancer", "Lifestealer", "Anti-Mage"],
         "Keeper of the Light": ["Night Stalker", "Huskar", "Clockwerk"],
-        "Invoker": ["Silencer", "Anti-Mage", "Nyxx Assassin"],
+        "Invoker": ["Silencer", "Anti-Mage", "Nyx Assassin"],
         "Legion Commander": ["Axe", "Timbersaw", "Bristleback"],
         "Lina": ["Anti-Mage", "Pugna", "Huskar"],
         "Lich": ["Anti-Mage", "Pugna", "Huskar"],
